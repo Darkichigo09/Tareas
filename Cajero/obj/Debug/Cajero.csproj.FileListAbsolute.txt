@@ -1,0 +1,6 @@
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Cajero\Cajero\obj\Debug\Cajero.csprojResolveAssemblyReference.cache
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\JOSECARLOSACUÑAROJAS\Documents\Visual Studio 2015\Projects\ConsoleAplication1\Cajero\Cajero\obj\Debug\Cajero.pdb
